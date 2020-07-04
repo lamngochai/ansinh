@@ -39,4 +39,3 @@ settings.xml
 target
 transaction-logs
 /application.properties
-log
